@@ -27,3 +27,5 @@
     name: nfs-kernel-server
     state: started
     enabled: yes
+
+- meta: flush_handlers
